@@ -1,0 +1,16 @@
+{
+  "name": "iamalamb/doctrine-core-bundle",
+  "description": "A collection of re-usable utility classes and services for Doctrine/Symfony integration.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "type": "symfony-bundle",
+  "authors": [
+    {
+      "name": "Jason Lamb",
+      "email": "jlamb@iamalamb.com"
+    }
+  ],
+  "autoload": {
+    "Iamalamb\\CoreBundle\\": ""
+  }
+}
